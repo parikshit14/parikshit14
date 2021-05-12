@@ -13,7 +13,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
-<details>
+
 [<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
 [<img align="left" alt="Atom" width="35px" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />][]
 [<img align="left" alt="Jupyter" width="35px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />][]
@@ -26,4 +26,5 @@
 [<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][]
 [<img align="left" alt="Python" width="35px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />][]
 [<img align="left" alt="C++" width="35px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />][]
-</details>
+<br />
+<br />
