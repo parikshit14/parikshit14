@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parikshit-singh-rathore-1a0964194/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:14.parikshitsingh@gmail.com?subject=Pretty%20Impressed%20By%20Your%20Github%20Profile)
-[![Gitter](https://img.shields.io/gitter/room/DAVFoundation/DAV-Contributors.svg?style=flat-square)](https://gitter.im/parikshit14)
 
 ![Parikshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=parikshit14&show_icons=true&theme=dark)
 
@@ -21,6 +20,10 @@
 [<img align="left" alt="Anaconda" width="26px" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />][]
 [<img align="left" alt="Ubuntu" width="26px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />][]
 [<img align="left" alt="Gitter" width="26px" src="(https://img.shields.io/gitter/room/DAVFoundation/DAV-Contributors.svg?style=flat-square" />][]
+
+<br />
+<br />
+
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />][]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
