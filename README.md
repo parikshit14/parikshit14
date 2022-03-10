@@ -1,16 +1,15 @@
 ### Hi there 👋, I'm Parikshit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parikshit-singh-rathore-1a0964194/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:14.parikshitsingh@gmail.com?subject=Pretty%20Impressed%20By%20Your%20Github%20Profile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:14.parikshitsingh@gmail.com)
 
 ![Parikshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=parikshit14&show_icons=true&theme=dark)
 
 
 ## I'm a Student, Developer!!
-- Currently a Junior Year Undergraduate Student With Major in Computer Science
-- 🌱 I’m currently learning computer vision
+- Currently a Senior Year Undergraduate Student With Major in Computer Science
 - 👯 I’m looking to collaborate with open-source community and developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects and explore new stuff!
 
 ### Languages and Tools:
 
