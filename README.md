@@ -7,7 +7,7 @@
 
 
 ## I'm a Student, Developer!!
-- Currently a Senior Year Undergraduate Student With Major in Computer Science
+- 2022 Graduate, in computer science and engineering.
 - 👯 I’m looking to collaborate with open-source community and developers
 - 🥅 2022 Goals: Contribute more to Open Source projects and explore new stuff!
 
